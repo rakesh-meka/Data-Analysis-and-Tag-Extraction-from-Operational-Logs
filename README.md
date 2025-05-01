@@ -13,7 +13,6 @@ The work was carried out using Python in a Jupyter Notebook environment, leverag
 - `TASK-2.xlsx` – Original dataset containing raw operational data.
 - `TASK-2-Cleaned.xlsx` – Cleaned version of the dataset post-processing.
 - `Analysis.ipynb` – Jupyter notebook detailing the full analysis pipeline.
-- `Data Analysis Report.pdf` – A comprehensive summary of the methods and findings.
 
 ---
 
