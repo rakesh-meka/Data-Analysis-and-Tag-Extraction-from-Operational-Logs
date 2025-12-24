@@ -23,14 +23,16 @@ The entire workflow is implemented using **Python** in a **Jupyter Notebook** en
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
 
+```text
 Data-Analysis-and-Tag-Extraction-from-Operational-Logs/
 │
-├── TASK-2.xlsx # Raw operational dataset
-├── TASK-2-Cleaned.xlsx # Cleaned and processed dataset
-├── Analysis.ipynb # Complete EDA, cleaning, visualization & tagging pipeline
-└── README.md # Project documentation
+├── TASK-2.xlsx               # Raw operational dataset
+├── TASK-2-Cleaned.xlsx       # Cleaned and processed dataset
+├── Analysis.ipynb            # Complete EDA, cleaning, visualization & tagging pipeline
+├── README.md                 # Project documentation
+└── LICENSE                   # MIT License
 
 
 ---
