@@ -33,7 +33,7 @@ Data-Analysis-and-Tag-Extraction-from-Operational-Logs/
 ├── Analysis.ipynb            # Complete EDA, cleaning, visualization & tagging pipeline
 ├── README.md                 # Project documentation
 └── LICENSE                   # MIT License
-
+```
 
 ---
 
