@@ -17,7 +17,7 @@ The entire workflow is implemented using **Python** in a **Jupyter Notebook** en
 - **Environment**: Jupyter Notebook  
 - **Libraries Used**:
   - Pandas – Data manipulation and cleaning  
-  - NumPy – Numerical operations  
+  - NumPy – Numerical operation  
   - Matplotlib – Data visualization  
   - Seaborn – Statistical visualizations  
 
