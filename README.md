@@ -39,7 +39,7 @@ Data-Analysis-and-Tag-Extraction-from-Operational-Logs/
 
 ## 📊 Dataset Description
 
-The dataset contains a mix of **numerical, categorical, and free-text fields** representing operational events.
+The dataset contains a mix of **numerical, categorical and free-text fields** representing operational events.
 
 ### Key Analysis Performed:
 - Identification of **data types** (numerical vs categorical)
