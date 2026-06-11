@@ -2,8 +2,9 @@
 
 ## 📌 Project Overview
 
-This project provides an end-to-end data analysis pipeline for **exploratory data analysis (EDA), data cleaning, visualization, and automated tag extraction** from operational log data.  
-The goal is to transform raw operational records—especially free-text issue descriptions—into structured, actionable insights.
+This project provides an end-to-end data analysis pipeline for exploratory data analysis (EDA), data cleaning, visualization, and automated tag extraction from operational log data.  
+
+The goal is to transform raw operational records especially free-text issue descriptions into structured, actionable insights.
 
 The analysis helps identify common operational problems such as **failures, component issues, delays, and warnings**, enabling better monitoring, reporting, and decision-making.
 
